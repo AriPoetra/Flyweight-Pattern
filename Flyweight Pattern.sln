@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Flyweight Pattern", "Flyweight Pattern\Flyweight Pattern.vcxproj", "{8AB5E1ED-44D0-498F-89C6-D0CC1383A06E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB5E1ED-44D0-498F-89C6-D0CC1383A06E}.Debug|x64.ActiveCfg = Debug|x64
+		{8AB5E1ED-44D0-498F-89C6-D0CC1383A06E}.Debug|x64.Build.0 = Debug|x64
+		{8AB5E1ED-44D0-498F-89C6-D0CC1383A06E}.Debug|x86.ActiveCfg = Debug|Win32
+		{8AB5E1ED-44D0-498F-89C6-D0CC1383A06E}.Debug|x86.Build.0 = Debug|Win32
+		{8AB5E1ED-44D0-498F-89C6-D0CC1383A06E}.Release|x64.ActiveCfg = Release|x64
+		{8AB5E1ED-44D0-498F-89C6-D0CC1383A06E}.Release|x64.Build.0 = Release|x64
+		{8AB5E1ED-44D0-498F-89C6-D0CC1383A06E}.Release|x86.ActiveCfg = Release|Win32
+		{8AB5E1ED-44D0-498F-89C6-D0CC1383A06E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF1328A0-33E9-4182-BD51-EAA12789173B}
+	EndGlobalSection
+EndGlobal
